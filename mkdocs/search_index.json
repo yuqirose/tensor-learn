@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/about/", 
-            "text": "301 Moved Permanently\n\n\n\n\n301 Moved Permanently\n\n\nnginx/1.6.2", 
+            "text": "301 Moved Permanently\n\n\n\n\nWhat is Tensor-Learn\n\n\nTensor-Learn is your quick intro to machine learning with tensors.\n\n\nWhy bother Writing\n\n\nIt began with a request. A new student in my lab asked me to give him a quick introduction to tensor for machine learning. My usual response to those kind of request is to google search and copy paste him an url. However, this time. I was stuck. There is no such url I can find. (With my trained information retrieval skills throughout PhD.) So I ended up giving him a 'chalk' talk on the blackboard. I figured that this request might not be unique and I can use my knowledge to contribute to the community. Here it is... A quick intro to tensor learning.", 
             "title": "About"
         }
     ]
