@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Tensor-Learn\n\n\nIt's all about tensor, a useful tool for machine learning. \n\n\nNotations\n\n\nConcepts\n\n\n\n\ntensor\n\n\nmode\n\n\nunfolding\n\n\ntensor-matrix product\n\n\n\n\nUnsupervised Learning\n\n\nSupervised Learning", 
+            "text": "Welcome to Tensor-Learn\n\n\nIt's all about tensor, a useful tool for machine learning. \n\n\nConcepts\n\n\n\n\ntensor\n\n\nmode\n\n\nunfolding\n\n\ntensor-matrix product\n\n\n\n\nUnsupervised Learning\n\n\ncoming soon\n\n\nSupervised Learning\n\n\ncoming soon\n\n\nReferences\n\n\nI have couple references at hand. But if you have useful pointers to tensor learning, please feel free to contribute to this repo.", 
             "title": "Home"
         }, 
         {
@@ -11,29 +11,44 @@
             "title": "Welcome to Tensor-Learn"
         }, 
         {
-            "location": "/#notations", 
-            "text": "", 
-            "title": "Notations"
-        }, 
-        {
             "location": "/#concepts", 
             "text": "tensor  mode  unfolding  tensor-matrix product", 
             "title": "Concepts"
         }, 
         {
             "location": "/#unsupervised-learning", 
-            "text": "", 
+            "text": "coming soon", 
             "title": "Unsupervised Learning"
         }, 
         {
             "location": "/#supervised-learning", 
-            "text": "", 
+            "text": "coming soon", 
             "title": "Supervised Learning"
         }, 
         {
+            "location": "/#references", 
+            "text": "I have couple references at hand. But if you have useful pointers to tensor learning, please feel free to contribute to this repo.", 
+            "title": "References"
+        }, 
+        {
             "location": "/about/", 
-            "text": "About\n\n\n\n\nWhat is Tensor-Learn\n\n\nTensor-Learn is your quick intro to machine learning with tensors.\n\n\nWhy bother Writing\n\n\nIt began with a request. A new student in my lab asked me to give him a quick introduction to tensor for machine learning. My usual response to those kind of request is to google search and copy paste him an url. However, this time. I was stuck. There is no such url I can find. (With my trained information retrieval skills throughout PhD.) So I ended up giving him a 'chalk' talk on the blackboard. I figured that this request might not be unique and I can use my knowledge to contribute to the community. Here it is... A quick intro to tensor learning.", 
+            "text": "What is Tensor-Learn\n\n\n\n\nTensor-Learn is your quick intro to machine learning with tensor.\n\n\n\n\nWhy bother writing\n\n\n\n\nIt began with a request. A new student in my lab asked me to give him a quick introduction to tensor for machine learning. My usual response to those kind of requests is to google search and share an url. However, this time. I was stuck. There was no such url I could find (with my trained information retrieval skills). So I ended up giving him a 'chalk' talk on the blackboard. I figured that this request might not be unique and I could use my knowledge to contribute to the community. Here it is... A quick intro to tensor learning. \n\n\n\n\nWho am I\n\n\n\n\nI am ALMOST a final year PhD student in computer science. My thesis is on tensor learning for large-scale spatio-temporal data.", 
             "title": "About"
+        }, 
+        {
+            "location": "/about/#what-is-tensor-learn", 
+            "text": "Tensor-Learn is your quick intro to machine learning with tensor.", 
+            "title": "What is Tensor-Learn"
+        }, 
+        {
+            "location": "/about/#why-bother-writing", 
+            "text": "It began with a request. A new student in my lab asked me to give him a quick introduction to tensor for machine learning. My usual response to those kind of requests is to google search and share an url. However, this time. I was stuck. There was no such url I could find (with my trained information retrieval skills). So I ended up giving him a 'chalk' talk on the blackboard. I figured that this request might not be unique and I could use my knowledge to contribute to the community. Here it is... A quick intro to tensor learning.", 
+            "title": "Why bother writing"
+        }, 
+        {
+            "location": "/about/#who-am-i", 
+            "text": "I am ALMOST a final year PhD student in computer science. My thesis is on tensor learning for large-scale spatio-temporal data.", 
+            "title": "Who am I"
         }
     ]
 }
