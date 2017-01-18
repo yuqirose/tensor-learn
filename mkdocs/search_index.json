@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to Tensor-Learn\n\n\nFor full documentation visit \ntensor-learn.org\n.\n\n\nWhat is Tensor-Learn about?\n\n\n\n\nQuick tutorial on tensor methods\n\n\nShowcases of tensor methods for machine learning\n\n\n\n\nWhat is Tensor-Learn NOT about?\n\n\n\n\nMathematics class on tensors/multi-linear algebra\n\n\nEncyclopedia of tensor methods", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-tensor-learn", 
+            "text": "For full documentation visit  tensor-learn.org .", 
+            "title": "Welcome to Tensor-Learn"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#what-is-tensor-learn-about", 
+            "text": "Quick tutorial on tensor methods  Showcases of tensor methods for machine learning", 
+            "title": "What is Tensor-Learn about?"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#what-is-tensor-learn-not-about", 
+            "text": "Mathematics class on tensors/multi-linear algebra  Encyclopedia of tensor methods", 
+            "title": "What is Tensor-Learn NOT about?"
         }, 
         {
             "location": "/about/", 
