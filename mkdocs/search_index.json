@@ -2,27 +2,32 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Tensor-Learn\n\n\nFor full documentation visit \ntensor-learn.org\n.\n\n\nWhat is Tensor-Learn about?\n\n\n\n\nQuick tutorial on tensor methods\n\n\nShowcases of tensor methods for machine learning\n\n\n\n\nWhat is Tensor-Learn NOT about?\n\n\n\n\nMathematics class on tensors/multi-linear algebra\n\n\nEncyclopedia of tensor methods", 
+            "text": "Welcome to Tensor-Learn\n\n\nWe held our very first \ntensor-learn workshop\n at \nNIPS\n 2016, one of the most prodigious conference in machine learning (ML) and AI. \nMany people asked for a pointer to learn about tensors. Here it is, an one-stop repo for learning about tensor methods.\n\n\nWhy Tensor-Learn?\n\n\nAccompanied by the resurgence of deep neural networks, tensor has become a critical mathematical tool to machine learning. If you heard about \nTensorFlow\n, you will get a glimpse of why tensors are important.   \n\n\nBut tensor methods go beyond TensorFlow, which by itself only treats tensor as an multi-dimensional array. The purpose of this repo is really to promote a new way of computational thinking. If we think of\nBLAS\n to accelerate the revolution from vectors to matrices, the era of tensors has come.\n\n\nWhat is Tensor-Learn about?\n\n\n\n\n\n\nQuick tutorial on tensor methods\n\n\n\n\n\n\nShowcases of tensor methods for machine learning\n\n\n\n\n\n\nWhat is Tensor-Learn NOT about?\n\n\n\n\n\n\nMathematics class on tensors/multi-linear algebra\n\n\n\n\n\n\nEncyclopedia of tensor methods", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-tensor-learn", 
-            "text": "For full documentation visit  tensor-learn.org .", 
+            "text": "We held our very first  tensor-learn workshop  at  NIPS  2016, one of the most prodigious conference in machine learning (ML) and AI. \nMany people asked for a pointer to learn about tensors. Here it is, an one-stop repo for learning about tensor methods.", 
             "title": "Welcome to Tensor-Learn"
         }, 
         {
+            "location": "/#why-tensor-learn", 
+            "text": "Accompanied by the resurgence of deep neural networks, tensor has become a critical mathematical tool to machine learning. If you heard about  TensorFlow , you will get a glimpse of why tensors are important.     But tensor methods go beyond TensorFlow, which by itself only treats tensor as an multi-dimensional array. The purpose of this repo is really to promote a new way of computational thinking. If we think of BLAS  to accelerate the revolution from vectors to matrices, the era of tensors has come.", 
+            "title": "Why Tensor-Learn?"
+        }, 
+        {
             "location": "/#what-is-tensor-learn-about", 
-            "text": "Quick tutorial on tensor methods  Showcases of tensor methods for machine learning", 
+            "text": "Quick tutorial on tensor methods    Showcases of tensor methods for machine learning", 
             "title": "What is Tensor-Learn about?"
         }, 
         {
             "location": "/#what-is-tensor-learn-not-about", 
-            "text": "Mathematics class on tensors/multi-linear algebra  Encyclopedia of tensor methods", 
+            "text": "Mathematics class on tensors/multi-linear algebra    Encyclopedia of tensor methods", 
             "title": "What is Tensor-Learn NOT about?"
         }, 
         {
             "location": "/about/", 
-            "text": "It's All About Tensor\n\n\n\n\nMachine Learning with Tensors\n\n\nnginx/1.6.2", 
+            "text": "", 
             "title": "About"
         }
     ]
