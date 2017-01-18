@@ -2,53 +2,28 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Tensor-Learn\n\n\nIt's all about tensor, a useful tool for machine learning. \n\n\nConcepts\n\n\n\n\ntensor\n\n\nmode\n\n\nunfolding\n\n\ntensor-matrix product\n\n\n\n\nUnsupervised Learning\n\n\ncoming soon\n\n\nSupervised Learning\n\n\ncoming soon\n\n\nReferences\n\n\nI have couple references at hand. But if you have useful pointers to tensor learning, please feel free to contribute to this repo.", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-tensor-learn", 
-            "text": "It's all about tensor, a useful tool for machine learning.", 
-            "title": "Welcome to Tensor-Learn"
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
         }, 
         {
-            "location": "/#concepts", 
-            "text": "tensor  mode  unfolding  tensor-matrix product", 
-            "title": "Concepts"
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
         }, 
         {
-            "location": "/#unsupervised-learning", 
-            "text": "coming soon", 
-            "title": "Unsupervised Learning"
-        }, 
-        {
-            "location": "/#supervised-learning", 
-            "text": "coming soon", 
-            "title": "Supervised Learning"
-        }, 
-        {
-            "location": "/#references", 
-            "text": "I have couple references at hand. But if you have useful pointers to tensor learning, please feel free to contribute to this repo.", 
-            "title": "References"
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
         }, 
         {
             "location": "/about/", 
-            "text": "What is Tensor-Learn\n\n\n\n\nTensor-Learn is your quick intro to machine learning with tensor.\n\n\n\n\nWhy bother writing\n\n\n\n\nIt began with a request. A new student in my lab asked me to give him a quick introduction to tensor for machine learning. My usual response to those kind of requests is to google search and share an url. However, this time. I was stuck. There was no such url I could find (with my trained information retrieval skills). So I ended up giving him a 'chalk' talk on the blackboard. I figured that this request might not be unique and I could use my knowledge to contribute to the community. Here it is... A quick intro to tensor learning. \n\n\n\n\nWho am I\n\n\n\n\nI am ALMOST a final year PhD student in computer science. My thesis is on tensor learning for large-scale spatio-temporal data.", 
+            "text": "It's All About Tensor\n\n\n\n\nMachine Learning with Tensors\n\n\nnginx/1.6.2", 
             "title": "About"
-        }, 
-        {
-            "location": "/about/#what-is-tensor-learn", 
-            "text": "Tensor-Learn is your quick intro to machine learning with tensor.", 
-            "title": "What is Tensor-Learn"
-        }, 
-        {
-            "location": "/about/#why-bother-writing", 
-            "text": "It began with a request. A new student in my lab asked me to give him a quick introduction to tensor for machine learning. My usual response to those kind of requests is to google search and share an url. However, this time. I was stuck. There was no such url I could find (with my trained information retrieval skills). So I ended up giving him a 'chalk' talk on the blackboard. I figured that this request might not be unique and I could use my knowledge to contribute to the community. Here it is... A quick intro to tensor learning.", 
-            "title": "Why bother writing"
-        }, 
-        {
-            "location": "/about/#who-am-i", 
-            "text": "I am ALMOST a final year PhD student in computer science. My thesis is on tensor learning for large-scale spatio-temporal data.", 
-            "title": "Who am I"
         }
     ]
 }
