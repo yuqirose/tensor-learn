@@ -1,12 +1,8 @@
 # Welcome to Tensor-Learn
-We held our very first [tensor-learn workshop](http://tensor-learn.org) at [NIPS](https://nips.cc/) 2016, one of the most prodigious conference in machine learning (ML) and AI. 
-Many people asked for a pointer to learn about tensors. Here it is, an one-stop repo for learning about tensor methods.
+In this blog, you will learn the recent development in tensor methods, especially with the application to machine learning.
 
 ### What is Tensor?
 Tensor is high dimensional generalization of matrices. 
-- Vector: ![Vector](/vector.png)
-- Matrix: ![Matrix](/matrix.png)
-- Tensor: ![Tensor](/tensor.png)
 
 ### Why Tensor-Learn?
 
