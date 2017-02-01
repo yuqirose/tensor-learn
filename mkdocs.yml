@@ -1,4 +1,7 @@
 site_name: It's All About Tensor
+theme: bootstrap
 pages:
 - Home: index.md
 - About: about.md
+
+
